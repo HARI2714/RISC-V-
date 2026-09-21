@@ -1,4 +1,4 @@
-# RISC-V RV32I Single-Cycle Processor (Verilog)
+# RISC-V RV32I Processor (Verilog)
 
 A single-cycle implementation of a subset of the RISC-V RV32I instruction set, written in Verilog,
 with a small Python assembler and a self-checking testbench.
