@@ -139,6 +139,9 @@ Result: **18 / 18 checks pass.**
 ```
 RESULT: PASS (all checks)
 ```
+<img width="885" height="537" alt="image" src="https://github.com/user-attachments/assets/c412d605-5d3b-4522-9cb2-2748a40c96f3" />
+<img width="1867" height="843" alt="image" src="https://github.com/user-attachments/assets/c18e0b3b-c375-4039-ad77-fb07acf664ea" />
+
 
 Sanity check of the testbench: breaking the `sub` decode on purpose makes the run fail on `x7`, so
 the checks are actually able to catch bugs.
